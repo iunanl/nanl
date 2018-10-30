@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Neuroscience and Neurotechnologies lab 
 
-You can use the [editor on GitHub](https://github.com/iunanl/nanl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="left">
+<img src=https://user-images.githubusercontent.com/29627794/47715816-f1ae6500-dc51-11e8-9e55-34bbb40e05f6.png width="50" heigth="50")
+</p>
+<p align="right">
+  <img src="https://png2.kisspng.com/sh/bfe1d19f438d9c737310de28118177a8/L0KzQYm3VcI3N511e5H0aYP2gLBuTflvdpD1h95ycz34frr9hgJ0caVARd94c3Pyh37wjwN1caV6jNc2b3awgLnCkBlke15mRadrMEm3dbbpgBE3apM1RqQ8Mki2R4m9UcUzP2Q4TqgDM0i1SYK1kP5o/kisspng-innopolis-university-moscow-institute-of-physics-a-5b094eebca6bb0.2328378615273366838291.png" width="100" height="100">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team
+Vitaly Volobuev. *Email*: apvsou@gmail.com
 
-### Markdown
+Bulat Maksudov. *Email*: b.maksudov@innopolis.ru
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
+1. Connecting EEG to Augmented Reality using Microsoft Hololens; 
+2. Features of music understanding and possibility of finding similar compositions based on EEG;
+3. Illnes detection using EEG brain stem and cerebellum;
+4. Ways of combining different EEG for increasing performance;
+5. Person identification using EEG. [Link](https://github.com/VitalyVV/EEG_authorization)
 
-```markdown
-Syntax highlighted code block
+### Partners
+* Innopolis university [Link](https://university.innopolis.ru/en/)
+* NeuroTechX [Link](https://neurotechx.github.io/studentclubs/)
 
-# Header 1
-## Header 2
-### Header 3
+### Join our Club!
+_Vitaly_ Telegram: @apvso, email apvsou@gmail.com <br />
+for any questions.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iunanl/nanl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Alt text](https://user-images.githubusercontent.com/29627794/47715815-f1ae6500-dc51-11e8-923f-558969e3cce6.png)
