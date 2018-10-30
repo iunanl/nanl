@@ -4,7 +4,7 @@
 <img src=https://user-images.githubusercontent.com/29627794/47715816-f1ae6500-dc51-11e8-9e55-34bbb40e05f6.png width="50" heigth="50")
 </p>
 <p align="right">
-  <img src="https://png2.kisspng.com/sh/bfe1d19f438d9c737310de28118177a8/L0KzQYm3VcI3N511e5H0aYP2gLBuTflvdpD1h95ycz34frr9hgJ0caVARd94c3Pyh37wjwN1caV6jNc2b3awgLnCkBlke15mRadrMEm3dbbpgBE3apM1RqQ8Mki2R4m9UcUzP2Q4TqgDM0i1SYK1kP5o/kisspng-innopolis-university-moscow-institute-of-physics-a-5b094eebca6bb0.2328378615273366838291.png" width="250" height="100">
+  <img src="https://png2.kisspng.com/sh/bfe1d19f438d9c737310de28118177a8/L0KzQYm3VcI3N511e5H0aYP2gLBuTflvdpD1h95ycz34frr9hgJ0caVARd94c3Pyh37wjwN1caV6jNc2b3awgLnCkBlke15mRadrMEm3dbbpgBE3apM1RqQ8Mki2R4m9UcUzP2Q4TqgDM0i1SYK1kP5o/kisspng-innopolis-university-moscow-institute-of-physics-a-5b094eebca6bb0.2328378615273366838291.png" width="150" height="100">
 </p>
 
 ### Team
