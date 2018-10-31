@@ -11,7 +11,7 @@ Bulat Maksudov. *Email*: b.maksudov@innopolis.ru
 ### Projects
 1. Connecting EEG to Augmented Reality using Microsoft Hololens; 
 2. Features of music understanding and possibility of finding similar compositions based on EEG;
-3. Illnes detection using EEG brain stem and cerebellum;
+3. Illnes detection using EEG on brain stem and cerebellum;
 4. Ways of combining different EEG for increasing performance;
 5. Person identification using EEG. [Link](https://github.com/VitalyVV/EEG_authorization)
 
