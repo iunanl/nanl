@@ -1,6 +1,6 @@
 ## Neuroscience and Neurotechnologies lab
 <p align="left">
-  <img src=https://neurotechx.github.io/studentclubs/images/NaNLab.png" width="300">
+  <img src="https://neurotechx.github.io/studentclubs/images/NaNLab.png" width="300">
 </p>
 
 ### Team
